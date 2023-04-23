@@ -1,0 +1,13 @@
+Projects/1_chat_bot/data/train.json
+Projects/1_chat_bot/data/dev.json
+Projects/1_chat_bot/nmt-chatbot/.git/objects/pack/pack-cd3a3e30de48aef242a13c38581e5af5c767e209.pack
+Projects/1_chat_bot/nmt-chatbot/data/train.bpe.to
+Projects/1_chat_bot/nmt-chatbot/data/train.bpe.from
+Projects/1_chat_bot/nmt-chatbot/new_data/train.from
+Projects/1_chat_bot/nmt-chatbot/new_data/train.to
+Supervised/data/sentiment_set.pickle
+Supervised/data/cats_vs_dogs/train.zip
+Supervised/data/cats_vs_dogs/train_data.npy
+Supervised/data/cats_vs_dogs/test_data.npy
+Supervised/data/cats_vs_dogs/test.zip
+Supervised/Deep_learning/~/tensorflow_datasets/mnist/3.0.1/mnist-train.tfrecord-00000-of-00001
